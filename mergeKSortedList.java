@@ -1,4 +1,6 @@
 import java.util.PriorityQueue;
+// T.C - O(nlog(k))
+// S.C - O(k)
 
 class ListNode {
     int val;
